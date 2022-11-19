@@ -1,0 +1,15 @@
+/Users/nikitazherko/Desktop/geekbrains/C#/homework2/ex13/bin/Debug/net7.0/ex13
+/Users/nikitazherko/Desktop/geekbrains/C#/homework2/ex13/bin/Debug/net7.0/ex13.deps.json
+/Users/nikitazherko/Desktop/geekbrains/C#/homework2/ex13/bin/Debug/net7.0/ex13.runtimeconfig.json
+/Users/nikitazherko/Desktop/geekbrains/C#/homework2/ex13/bin/Debug/net7.0/ex13.dll
+/Users/nikitazherko/Desktop/geekbrains/C#/homework2/ex13/bin/Debug/net7.0/ex13.pdb
+/Users/nikitazherko/Desktop/geekbrains/C#/homework2/ex13/obj/Debug/net7.0/ex13.csproj.AssemblyReference.cache
+/Users/nikitazherko/Desktop/geekbrains/C#/homework2/ex13/obj/Debug/net7.0/ex13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitazherko/Desktop/geekbrains/C#/homework2/ex13/obj/Debug/net7.0/ex13.AssemblyInfoInputs.cache
+/Users/nikitazherko/Desktop/geekbrains/C#/homework2/ex13/obj/Debug/net7.0/ex13.AssemblyInfo.cs
+/Users/nikitazherko/Desktop/geekbrains/C#/homework2/ex13/obj/Debug/net7.0/ex13.csproj.CoreCompileInputs.cache
+/Users/nikitazherko/Desktop/geekbrains/C#/homework2/ex13/obj/Debug/net7.0/ex13.dll
+/Users/nikitazherko/Desktop/geekbrains/C#/homework2/ex13/obj/Debug/net7.0/refint/ex13.dll
+/Users/nikitazherko/Desktop/geekbrains/C#/homework2/ex13/obj/Debug/net7.0/ex13.pdb
+/Users/nikitazherko/Desktop/geekbrains/C#/homework2/ex13/obj/Debug/net7.0/ex13.genruntimeconfig.cache
+/Users/nikitazherko/Desktop/geekbrains/C#/homework2/ex13/obj/Debug/net7.0/ref/ex13.dll
